@@ -1,2 +1,2 @@
 # hello
-Hello Around the World
+Hello around the world
