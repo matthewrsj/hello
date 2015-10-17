@@ -1,7 +1,10 @@
 # hello
 Hello around the world
 
-## Development
+This repository holds hello world programs written in several different programming languages. Each program prints "Hello
+world!" in several different languages, listed below. 
+
+## Contribute
 
 1. Fork this repository
 2. Write a new program (in a new programming language) to print out "Hello world!" in all the languages listed below
