@@ -17,7 +17,11 @@ world!" in several different languages, listed below.
 
 ## Languages
 
-- English
-- Spanish
-- French
-- Norwegian
+- English     
+  *Hello world!*
+- Spanish     
+  *Hola mundo!*
+- French      
+  *Bonjour le monde!*
+- Norwegian   
+  *Hallo verden!*
