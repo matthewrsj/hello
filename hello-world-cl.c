@@ -6,4 +6,6 @@ int main()
   printf("Hola mundo!");           /* Spanish    */
   printf("Bonjour le monde!");     /* French     */
   printf("Hallo verden!");         /* Norwegian  */
+  
+  return 0;
 }
